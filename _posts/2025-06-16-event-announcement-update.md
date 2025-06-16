@@ -10,7 +10,7 @@ You are most welcome!
 
 This is the fifth of a series of seminars bringing together GPU and FPGA practitioners, computer science and engineering experts, scientific computing experts, application owners and HPC providers.
 
-The series is part of the FIRE symposia and is jointly organized by SURF and the Hardware Acceleration Network NL. The event features a lineup of discussions centered around innovations in high-throughput data movement to accelerators and data abstraction in hardware design. The program includes a keynote from Peter Hofstee (IBM) and speakers from the industry, such as NVIDIA and QBayLogic.
+The series is part of the FIRE symposia and is jointly organized by SURF and the Hardware Acceleration Network NL. The event features a lineup of discussions centered around innovations in high-throughput data movement to accelerators and data abstraction in hardware design. The program includes keynotes from Peter Hofstee (IBM) and Christiaan Baaij (QBayLogic) and speakers from the industry as well as academia.
 
 ## Programme outline [updated]
 
