@@ -23,7 +23,7 @@ This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organiz
 - 17.00 - 18.00 Borrel and networking
 
 ## Sign up
-Sign up: Please sign up for the event through the registration page [here] (https://forms.gle/SyHApPM3kSEEELVE9)
+Sign up: Please sign up for the event through the registration page [https://forms.gle/SyHApPM3kSEEELVE9](https://forms.gle/SyHApPM3kSEEELVE9)
 
 ## Location
 The event will be hosted at Wageningen University and Research, Building nr. 122 (Zodiac (A0107)), De Elst 1, 6708 WD Wageningen
