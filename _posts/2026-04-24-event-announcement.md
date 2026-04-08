@@ -1,10 +1,10 @@
 ---
-title: "HWAcc FIRE seminar: "HWAcc FIRE event: Computational Challenges and High-Performance Technologies for Life Sciences [Apr 24, 2026]"
+title: "HWAcc FIRE seminar: "HWAcc FIRE event: Computational Challenges and High-Performance Technologies for Life Sciences [Apr 24th 2026]"
 date: 2026-04-24
 author: Zaid Al-Ars
 ---
 
-# HWAcc FIRE seminar: Computational Challenges and High-Performance Technologies for Life Sciences [Apr 24, 2026]
+# HWAcc FIRE seminar: Computational Challenges and High-Performance Technologies for Life Sciences [Apr 24th 2026]
 
 We would like to invite you to the next FIRE (FPGA Innovation Research Exchange) seminar that will take place at Wageningen University on April 24, 2026 and will focus on “Computational Challenges and High-Performance Technologies for Life Sciences”. The event will showcase talks from industrial and academic partners such as KeyGene, Wageningen University, SURF and various technical universities in the Netherlands.
 
