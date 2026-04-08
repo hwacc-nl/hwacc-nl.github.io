@@ -1,5 +1,6 @@
 ---
 title: "HWAcc FIRE event: Computational Challenges and High-Performance Technologies for Life Sciences [Apr 24, 2026]" 
+date: 2026-04-24
 author: Zaid Al-Ars
 ---
 
