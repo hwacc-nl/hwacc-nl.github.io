@@ -15,7 +15,7 @@ This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organiz
 - 09.45 - 10.00 Introduction
 
 - 10.00 - 11.00 Keynote: Maureen van Eijnatten (KeyGene), Algorithms and platforms for plant genomics
-- 10:00 - 12:30 1st thematic session: Life sciences compute challenges and solutions  
+- 11:00 - 12:30 1st thematic session: Life sciences compute challenges and solutions  
 Jan Erik Doornweerd (WUR), High-throughput phenotyping in livestock barns – Dairy cows  
 Wijbrand Ouweltjes (WUR), Monitoring broiler behavior using surveillance camera’s  
 Nikos Alachiotis (UTwente), Genomic scans for selective sweeps using deep learning and FPGA acceleration  
