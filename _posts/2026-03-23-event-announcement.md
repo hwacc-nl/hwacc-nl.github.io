@@ -21,7 +21,7 @@ Wijbrand Ouweltjes (WUR), Monitoring broiler behavior using surveillance cameraâ
 Nikos Alachiotis (UTwente), Genomic scans for selective sweeps using deep learning and FPGA acceleration  
 
 - 12.30 - 13.30â€‚Lunch
-- 13.30 - 15.00 Short talks  
+- 13.30 - 15.00 Lightning talks  
 Jeremie Vandenplas (WUR), Genomic prediction on GPUs: a micro-benchmark  
 Elias Primetis (RadboudU), Computational limitations in HiC phasing and scaffolding approaches in haplotype-resolved genome assembly  
 Mohsen Safari (SURF), The Dutch high-performance compute infrastructure  
