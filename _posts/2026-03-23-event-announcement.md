@@ -15,22 +15,22 @@ This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organiz
 - 09.45 - 10.00 Introduction
 
 - 10.00 - 11.00 Keynote: Maureen van Eijnatten (KeyGene), Algorithms and platforms for plant genomics
-- 10:00 - 12:30 1st thematic session: Life sciences compute challenges and solutions
-Jan Erik Doornweerd (WUR), High-throughput phenotyping in livestock barns – Dairy cows
-Wijbrand Ouweltjes (WUR), Monitoring broiler behavior using surveillance camera’s
-Nikos Alachiotis (UTwente), Genomic scans for selective sweeps using deep learning and FPGA acceleration
+- 10:00 - 12:30 1st thematic session: Life sciences compute challenges and solutions  
+Jan Erik Doornweerd (WUR), High-throughput phenotyping in livestock barns – Dairy cows  
+Wijbrand Ouweltjes (WUR), Monitoring broiler behavior using surveillance camera’s  
+Nikos Alachiotis (UTwente), Genomic scans for selective sweeps using deep learning and FPGA acceleration  
 
 - 12.30 - 13.30 Lunch
-- 13.30 - 15.00 Short talks
-Jeremie Vandenplas (WUR), Genomic prediction on GPUs: a micro-benchmark
-Elias Primetis (RadboudU), Computational limitations in HiC phasing and scaffolding approaches in haplotype-resolved genome assembly
-Mohsen Safari (SURF), The Dutch high-performance compute infrastructure
-Christiaan Baaij (QBayLogic), Clash HDL acceleration of compute intensive algorithms
+- 13.30 - 15.00 Short talks  
+Jeremie Vandenplas (WUR), Genomic prediction on GPUs: a micro-benchmark  
+Elias Primetis (RadboudU), Computational limitations in HiC phasing and scaffolding approaches in haplotype-resolved genome assembly  
+Mohsen Safari (SURF), The Dutch high-performance compute infrastructure  
+Christiaan Baaij (QBayLogic), Clash HDL acceleration of compute intensive algorithms  
 
 - 15.00 - 15.30 Coffee break
-- 15:30 - 17:00 2nd thematic session: Life sciences high-performance technologies
-Kumar Saurabh Singh (UMaastricht), Computational challenges of multi-omics data for pathway discovery: lessons from MEANtools
-Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics
+- 15:30 - 17:00 2nd thematic session: Life sciences high-performance technologies  
+Kumar Saurabh Singh (UMaastricht), Computational challenges of multi-omics data for pathway discovery: lessons from MEANtools  
+Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics  
 
 - 17:00 - 18.00 Borrel and networking
 
