@@ -33,8 +33,8 @@ This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organiz
 - 15.30 - 16.00 Coffee break  
 
 - 16:00 - 17:00 2nd Thematic Session: Life Sciences High-Performance Technologies  
-- Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics  
-- Christiaan Boerkamp (VLV Tech), Accelerating Non-AI Signal Processing Algorithms for DNA Analysis  
+-- Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics  
+-- Christiaan Boerkamp (VLV Tech), Accelerating Non-AI Signal Processing Algorithms for DNA Analysis  
 
 - 17:00 - 18.00 Borrel and networking  
 
