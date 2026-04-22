@@ -11,28 +11,32 @@ We would like to invite you to the next FIRE (FPGA Innovation Research Exchange)
 This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organized by the Hardware Acceleration Network NL and Wageningen University. The FIRE events aim to bring together FPGA/GPU practitioners, computer science and engineering experts, scientific computing experts, application owners and HPC providers, to exchange ideas and discuss solutions.
 
 ## Programme outline
-- 09.30 - 09.45 Welcome & coffee
-- 09.45 - 10.00 Introduction
+- 09.30 - 09.45 Welcome & coffee  
+- 09.45 - 10.00 Introduction  
 
-- 10.00 - 11.00 Keynote: Maureen van Eijnatten (KeyGene), Algorithms and platforms for plant genomics
-- 11:00 - 12:30 1st thematic session: Life sciences compute challenges and solutions  
-Jan Erik Doornweerd (WUR), High-throughput phenotyping in livestock barns – Dairy cows  
-Wijbrand Ouweltjes (WUR), Monitoring broiler behavior using surveillance camera’s  
-Nikos Alachiotis (UTwente), Genomic scans for selective sweeps using deep learning and FPGA acceleration  
+- 10.00 - 12:00 1st Thematic Session: Life Sciences Compute Challenges and Solutions  
+-- Kumar Saurabh Singh (UMaastricht), Computational Challenges of Multi-Omics Data for Pathway Discovery: Lessons from MEANtools  
+-- Jan Erik Doornweerd (WUR), High-Throughput Phenotyping in Livestock Barns – Dairy Cows  
+-- Wijbrand Ouweltjes (WUR), Monitoring Broiler Behavior Using Surveillance Camera’s  
+-- Nikos Alachiotis (UTwente), Genomic Scans for Selective Sweeps Using Deep Learning and FPGA Acceleration  
 
-- 12.30 - 13.30 Lunch
-- 13.30 - 15.00 Lightning talks  
-Jeremie Vandenplas (WUR), Genomic prediction on GPUs: a micro-benchmark  
-Elias Primetis (RadboudU), Computational limitations in HiC phasing and scaffolding approaches in haplotype-resolved genome assembly  
-Mohsen Safari (SURF), The Dutch high-performance compute infrastructure  
-Christiaan Baaij (QBayLogic), Clash HDL acceleration of compute intensive algorithms  
+- 12.00 - 13.00 Lunch  
 
-- 15.00 - 15.30 Coffee break
-- 15:30 - 17:00 2nd thematic session: Life sciences high-performance technologies  
-Kumar Saurabh Singh (UMaastricht), Computational challenges of multi-omics data for pathway discovery: lessons from MEANtools  
-Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics  
+- 13:00 - 14:00 Keynote: Maureen van Eijnatten (KeyGene), Revolutionizing Plant Breeding by Combining Systems Biology, Artificial Intelligence   and Agents  
+- 14.00 - 15.30 Lightning talks  
+-- Jeremie Vandenplas (WUR), Genomic Prediction on GPUs: A Micro-Benchmark  
+-- Elias Primetis (RadboudU), Computational Limitations in HiC Phasing and Scaffolding Approaches in Haplotype-Resolved Genome Assembly  
+-- Mohsen Safari (SURF), The Dutch High-Performance Compute Infrastructure  
+-- Christiaan Baaij (QBayLogic), Clash HDL Acceleration of Compute Intensive Algorithms  
+-- Alexander van Ittersum & Fons Prinsen (WUR), Anunna in the HPC Ecosystem: The Present and Future of Compute at WUR  
 
-- 17:00 - 18.00 Borrel and networking
+- 15.30 - 16.00 Coffee break  
+
+- 16:00 - 17:00 2nd Thematic Session: Life Sciences High-Performance Technologies  
+- Gina Alexopoulou (NTU Athens & SURF), High-Throughput Linkage Disequilibrium Computation on FPGAs: A Streaming Dataflow Architecture for Population Genomics  
+- Christiaan Boerkamp (VLV Tech), Accelerating Non-AI Signal Processing Algorithms for DNA Analysis  
+
+- 17:00 - 18.00 Borrel and networking  
 
 ## Sign up
 Sign up: Please sign up for the event through the registration page [https://forms.gle/SyHApPM3kSEEELVE9](https://forms.gle/SyHApPM3kSEEELVE9)
