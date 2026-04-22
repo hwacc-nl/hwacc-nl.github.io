@@ -26,8 +26,8 @@ This is the 7th event in the FIRE series, sponsored by 4TU.NIRICT and co-organiz
 - 14.00 - 15.30 Lightning talks  
 -- Jeremie Vandenplas (WUR), Genomic Prediction on GPUs: A Micro-Benchmark  
 -- Elias Primetis (RadboudU), Computational Limitations in HiC Phasing and Scaffolding Approaches in Haplotype-Resolved Genome Assembly  
--- Mohsen Safari (SURF), The Dutch High-Performance Compute Infrastructure  
 -- Christiaan Baaij (QBayLogic), Clash HDL Acceleration of Compute Intensive Algorithms  
+-- Mohsen Safari (SURF), The Dutch High-Performance Compute Infrastructure  
 -- Alexander van Ittersum & Fons Prinsen (WUR), Anunna in the HPC Ecosystem: The Present and Future of Compute at WUR  
 
 - 15.30 - 16.00 Coffee break  
